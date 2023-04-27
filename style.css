@@ -1,0 +1,37 @@
+/* Colour pairings */
+
+body{
+  background-color:black;
+  margin:10px;
+}
+
+h1{
+  color:white;
+  text-align:center;
+  margin:10px;
+}
+
+a{
+  color:white;
+  text-decoration:none;
+}
+
+p{
+  color:#FF00FF;
+  text-align:center;
+}
+h2{
+  color:#FF5733;
+}
+
+ol{
+  color:#FF5733;
+  }
+  
+footer{
+  text-align:center;
+  margin:50px;
+}
+img{
+  border-radius:10%;
+}
